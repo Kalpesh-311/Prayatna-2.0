@@ -63,6 +63,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### 🔗 Connect with Me
-📧 Email: kalpesh311@example.com  
+📧 Email: kalpeshspatil311@gmail.com 
 🐙 GitHub: [Kalpesh-311](https://github.com/Kalpesh-311)
 
